@@ -1,0 +1,17 @@
+"I designed and implemented a scalable hybrid automation framework integrating Selenium, Cucumber BDD, TestNG, and REST Assured. The framework supported UI, API, and DB validation, reduced regression time by 65%, and was fully integrated into Jenkins CI/CD pipelines."
+
+
+
+🏗 Framework Architecture (Hybrid Framework)
+
+We implemented a Hybrid Framework combining:
+
+Page Object Model (POM)
+
+Data Driven (Excel + JSON)
+
+BDD using Cucumber
+
+TestNG Runner
+
+CI/CD with Jenkins
