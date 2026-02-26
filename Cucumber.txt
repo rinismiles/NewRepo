@@ -1,0 +1,9 @@
+Cucumber BDD Implementation
+Feature File
+Feature: Billing Validation
+
+  Scenario: Validate billing cycle for postpaid customer
+    Given User logs into CRM application
+    When User navigates to Billing Page
+    And User triggers bill generation
+    Then Bill should be generated successfully
